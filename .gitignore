@@ -1,0 +1,6 @@
+/node_modules
+index.js
+/Classes/Block.js
+/Classes/Chain.js
+/Classes/Transaction.js
+/Classes/Wallet.js
