@@ -75,7 +75,7 @@ The program will contain only one block chain. So we will set the class to a sin
 
 Take the value of a arbitery size like a Transaction then map it to a fixed lenght like a hexadecimal string. The value returned from a hash function is called a hash or a hash digest. Hash cannot be reverted to reconstruct the original value. But hash can be compared to 
 
-<img src="Assets/hash.png">
+<img src="./Assets/hash.png">
 
 ## Mining 
 
